@@ -1,0 +1,173 @@
+@-moz-document domain("poliformat.upv.es") {
+    /* Elementos ocultos */
+    portal-footer,
+    #recent-site-list,
+    div.sites-section:nth-child(4) > h3:nth-child(1),
+    #site-list-home-item-53883535,
+    div.Mrphs-container:nth-child(2) > nav:nth-child(1),
+    .Mrphs-toolBody--sakai-synoptic-chat,
+    #id315ee42b_7cec_40ae_80d0_c460d96c4a85,
+    footer,
+    .portal-footer,
+    .btn-logo-upv {
+        display: none !important;
+    }
+
+    /* Ajustes de layout */
+    #col1of2 {
+        width: 80% !important;
+    }
+    
+    #col2of2 {
+        width: 20% !important;
+    }
+    
+    .Mrphs-pageColumns {
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+    
+    .portal-main-container {
+        padding: 10px;
+    }
+
+    /* Ajustes de altura y scroll */
+    .Mrphs-toolBody--sakai-synoptic-announcement {
+        max-height: 330px;
+        overflow: auto;
+    }
+    
+    .Mrphs-toolBody--sakai-summary-calendar {
+        max-height: 480px;
+        overflow: auto;
+    }
+    
+    .Mrphs-toolBody--sakai-synoptic-messagecenter {
+        max-height: 140px;
+        overflow: auto;
+    }
+    
+    .Mrphs-toolBody {
+        height: 1090px;
+    }
+
+    /* Estilos de bordes */
+    .site-list-item {
+        padding: 0px 3px !important;
+        border-radius: 20px;
+        overflow: hidden;
+    }
+    
+    .Mrphs-toolTitleNav,
+    .Mrphs-container {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    
+    header {
+        border-radius: 20px;
+    }
+    
+    .btn-primary {
+        border-radius: 20px;
+    }
+
+    /* Fondos y colores */
+    .portal-main-container {
+        background: linear-gradient(to bottom, #151718, #151718, #2a0606);
+    }
+    
+    #footerAppPresence {
+        background-color: rgb(164, 14, 14);
+    }
+    
+    a {
+        color: #d31d12;
+    }
+    
+    .Mrphs-toolBody {
+        background-color: rgba(0, 0, 0, 0.5); 
+    }
+    
+    .sites-section .pinned.site.section {
+        background-color: rgba(0, 0, 0, 0.5); 
+    }
+    
+    .portletBody.container-fluid,
+    .portletBody,
+    .portletMainIframe {
+        background-color: rgba(0, 0, 0, 0);
+    }
+    
+    #content.portal-main-content.px-3 {
+        background-color: rgba(0, 0, 0, 0.4); 
+        border-radius: 10px;
+        padding: 15px;
+    }
+    
+    #content.portal-main-content.Mrphs-multipleTools.px-3 {
+        background-color: rgba(0, 0, 0, 0); 
+    }
+
+    /* Estilos para el calendario */
+    body.Mrphs-container,
+    .portletBody,
+    .Mrphs-calendarSynoptic,
+    #calendarForm {
+        background-color: transparent !important;
+    }
+    
+    #calendarForm\:table_calendar,
+    #calendarForm\:panelgrid_top,
+    .mainCalendar,
+    .sectionContainerNav,
+    .calHeader,
+    .calDay,
+    .calDayWithoutActivity,
+    .calOtherDayWithNoActivity {
+        background-color: transparent !important;
+        border-color: rgba(255,255,255,0.2) !important;
+    }
+    
+    .calToday.calSelectedDay > span {
+        color: #FF5722 !important;
+        font-weight: bold !important;
+        text-shadow: 0 1px 3px rgba(0,0,0,0.5) !important;
+    }
+    
+    #calendarForm\:id_left_month,
+    #calendarForm\:id_right_month,
+    .calendarForm\:j_id_jsp_2137169068_23 {
+        background-color: rgba(255,255,255,0.1) !important;
+        border: 1px solid rgba(255,255,255,0.3) !important;
+    }
+    
+    .portletBody,
+    .Mrphs-calendarSynoptic,
+    .mainCalendar,
+    .sectionContainerNav {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    /* Prefijos para asignaturas */
+    #site-list-pinned-item-GRA_11612_2024 > div:nth-child(1) > div:nth-child(1) > a:nth-child(2)::before {
+        content: "TBD: ";
+        color: #d31d12;
+    }
+    
+    #site-list-pinned-item-GRA_11554_2024 > div:nth-child(1) > div:nth-child(1) > a:nth-child(2)::before {
+        content: "GPR: ";
+        color: #d31d12;
+    }
+    
+    #site-list-pinned-item-GRA_11607_2024 > div:nth-child(1) > div:nth-child(1) > a:nth-child(2)::before {
+        content: "RAL: ";
+        color: #d31d12;
+    }
+    
+    #site-list-pinned-item-GRA_11610_2024 > div:nth-child(1) > div:nth-child(1) > a:nth-child(2)::before {
+        content: "DEW: ";
+        color: #d31d12;
+    }
+}
