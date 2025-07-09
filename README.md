@@ -31,8 +31,7 @@ Para cambiar prefijos de asignaturas:
   color: #d31d12;
 }
 ``` 
-
-## Nota importantes  
-- Puede dejar de funcionar si Poliformat actualiza su estructura. Última actualización: `10 de julio de 2025`
+>[!WARNING]
+Puede dejar de funcionar si Poliformat actualiza su estructura. Última actualización: `10 de julio de 2025`
 
 
