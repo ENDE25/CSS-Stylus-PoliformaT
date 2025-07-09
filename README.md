@@ -37,14 +37,18 @@ Para ajustar alturas:
 - Puede dejar de funcionar si Poliformat actualiza su estructura. Última actualización: `10 de julio de 2025`
 
 ## Capturas de Pantalla
-**Antes:** ![image](https://github.com/user-attachments/assets/74823af2-40fd-4c54-bbf9-0ad3ea9b6f57)
-**Después:** ![image](https://github.com/user-attachments/assets/ecc7168e-66e3-458c-9ab1-35bd28f416e7)
 
-**Antes:** ![image](https://github.com/user-attachments/assets/07cf8a54-e88c-44b4-a21e-e334e41bf71e)
-**Después:** ![image](https://github.com/user-attachments/assets/12773c48-dd57-4088-8e5f-08bef05bf8ec)
-
-
-
-
-  
-```
+<table>
+  <tr>
+    <th>Antes</th>
+    <th>Después</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/74823af2-40fd-4c54-bbf9-0ad3ea9b6f57" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/ecc7168e-66e3-458c-9ab1-35bd28f416e7" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/07cf8a54-e88c-44b4-a21e-e334e41bf71e" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/12773c48-dd57-4088-8e5f-08bef05bf8ec" width="400"></td>
+  </tr>
+</table>
