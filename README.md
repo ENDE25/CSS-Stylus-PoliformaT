@@ -14,14 +14,15 @@ Un tema oscuro personalizado para Poliformat (Sakai), la plataforma educativa de
 - Optimización de espacio (elimina elementos innecesarios)  
 - Calendario más legible con eventos resaltados  
 - Prefijos identificativos para asignaturas  
-- Mejor organización visual de widgets  
+- Mejor organización visual de widgets
 
-## Instalación con Stylus  
+_También se puede instalar desde el [sitio web del estilo](https://userstyles.world/style/23410/dark-modern-poliformat)_
+
+## Cómo Instalarlo  
 
 1. Instala la extensión [Stylus](https://github.com/openstyles/stylus) para [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) o [Firefox](https://addons.mozilla.org/es/firefox/addon/stylus/)  
-2. Haz clic en el icono de Stylus > "Gestionar estilos"  
-3. Crea un nuevo estilo y pega el código CSS  
-4. Configura para aplicar a: ``poliformat.upv.es``  
+2. Con la página de PoliformaT abierta haz clic en el icono de Stylus > "Buscar"  
+3. Aparecerá el estilo "Dark Modern PoliformaT". Al hacer "click" se instalará automáticamente
 
 ## Personalización  
 Para cambiar prefijos de asignaturas:  
